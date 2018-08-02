@@ -10,8 +10,8 @@ repo for RBDA final project
 
 ## preliminary
 * Hadoop, Spark setup in Dumbo Cluster
-* Download Crime Dataset from ![here](https://data.cityofnewyork.us/Public-Safety/NYPD-Complaint-Data-Historic/qgea-i56i)
-* upload	the	data file on HDFS directly by ![HUE](http://babar.es.its.nyu.edu:8888/filebrowser/)
+* Download Crime Dataset from ![here](https://data.cityofnewyork.us/Public-Safety/NYPD-Complaint-Data-Historic/qgea-i56i "NYPD crime dataset")
+* upload	the	data file on HDFS directly by ![HUE](http://babar.es.its.nyu.edu:8888/filebrowser/ "HUE webpage here")
 * Log into the main HPC node:
   - (Windows) open Ubuntu which is installed from Microsoft Store. type `ssh -Y hpctunnel`, and then enter password when prompted.
   - type `ssh dumbo`. Enter password again.
