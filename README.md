@@ -32,3 +32,4 @@ repo for RBDA final project
 
 # Data Visualization
 * Do the visualization part in local, using jupyter notebook and Arcgis for visualization.
+[我的博客](http://blog.csdn.net/guodongxiaren "悬停显示")
