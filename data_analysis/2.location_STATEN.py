@@ -3,10 +3,7 @@
 #<latitude> col[21]
 #<longitude>col[22]
 
-#env: 
-#python
-# encoding: utf-8
-# HOME\project\code
+#take Staten Island for example.
 
 from __future__ import print_function
 
