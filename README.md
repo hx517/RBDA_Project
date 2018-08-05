@@ -29,6 +29,7 @@ repo for RBDA final project
 # Data Analysis
 * Run	the	Data Analysis Python programs using	Spark: `spark-submit 'namehere.py' NYPD_Complaint_Data_Historic.csv`
 * Output can be found in 'output_file_name.out', get in dumbo using: `hadoop fs -getmerge 'output_namehere.out' 'output_namehere.out'`
+* Then download output files to local.
 
 # Data Visualization
 * Do the visualization part in local, using jupyter notebook and Arcgis for visualization.
